@@ -1,0 +1,6 @@
+{
+  "driver": "/Program Files (x86)/chromedriver",
+  "url": "https://gmail.com",
+  "number": "continue_with_own_number"
+}
+
